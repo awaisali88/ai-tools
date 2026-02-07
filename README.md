@@ -2,22 +2,24 @@
 
 A simple reference sheet of AI assistants, memory tools, and MCP/context extensions used for everyday work.
 
+**GitHub:** [github.com/awaisali88/ai-tools](https://github.com/awaisali88/ai-tools)
+
 ---
 
 ## Core AI Assistants
 
 *Main thinking, planning, and coding partners*
 
-- **ChatGPT (OpenAI)**
+- **[ChatGPT (OpenAI)](https://chatgpt.com/)**
   General reasoning, planning, architecture, debugging
 
-- **Claude Code (Anthropic)**
+- **[Claude Code (Anthropic)](https://docs.anthropic.com/en/docs/claude-code)**
   Deep coding and structured problem solving
 
-- **Google Gemini**
+- **[Google Gemini](https://gemini.google.com/)**
   Research and multimodal queries
 
-- **OpenCode (multi-model)**
+- **[OpenCode (multi-model)](https://opencode.ai/)**
   Developer experimentation and model switching
 
 ---
@@ -26,16 +28,19 @@ A simple reference sheet of AI assistants, memory tools, and MCP/context extensi
 
 *Tools that remember, organize, and summarize information*
 
-- **Recall AI**
+- **[Recall AI](https://www.getrecall.ai/)**
   Personal memory capture and knowledge tracking
 
-- **Notebook LM**
+- **[Notebook LM](https://notebooklm.google/)**
   Document research and summaries
 
-- **Claude Mem MCP**
+- **[Claude Mem MCP](https://github.com/thedotmack/claude-mem)**
   Persistent memory/context for Claude sessions
 
-- **Paperless-ngx**
+- **[Mem0.ai](https://mem0.ai/)**
+  Universal memory layer for AI apps and agents
+
+- **[Paperless-ngx](https://docs.paperless-ngx.com/)**
   AI-powered document management, organization, and automated tagging
 
 ---
@@ -44,13 +49,13 @@ A simple reference sheet of AI assistants, memory tools, and MCP/context extensi
 
 *Tools that feed extra context into AI*
 
-- **Playwright MCP (Microsoft)**
+- **[Playwright MCP (Microsoft)](https://github.com/microsoft/playwright-mcp)**
   Browser automation and live web interaction context
 
-- **Context-7 MCP (Cloud)**
-  Extended reasoning and cloud context integration
+- **[Context7 MCP (Upstash)](https://github.com/upstash/context7)**
+  Up-to-date, version-specific documentation and code examples for AI prompts
 
-- **OpenWork MCP / Tool**
+- **[OpenWork MCP / Tool](https://github.com/different-ai/openwork)**
   Workflow and task context integration
 
 ---
@@ -59,16 +64,16 @@ A simple reference sheet of AI assistants, memory tools, and MCP/context extensi
 
 *Developer-focused AI helpers*
 
-- **OpenCode**
+- **[OpenCode](https://opencode.ai/)**
   Multi-AI coding workspace
 
-- **Claude Code**
+- **[Claude Code](https://docs.anthropic.com/en/docs/claude-code)**
   Advanced engineering reasoning
 
-- **OpenClaw (formerly Claude Boat)**
-  Enhanced Claude coding environment
+- **[OpenClaw](https://openclaw.ai/)**
+  Open-source personal AI assistant with messaging and automation
 
-- **Pencil.dev**
+- **[Pencil.dev](https://www.pencil.dev/)**
   AI design-to-code canvas integrated into IDEs (Cursor, VSCode, Claude Code) via MCP
 
 ---
@@ -77,7 +82,7 @@ A simple reference sheet of AI assistants, memory tools, and MCP/context extensi
 
 *Task orchestration and productivity tools*
 
-- **OpenWork**
+- **[OpenWork](https://github.com/different-ai/openwork)**
   Workflow automation and AI task integration
 
 ---
@@ -87,8 +92,8 @@ A simple reference sheet of AI assistants, memory tools, and MCP/context extensi
 Think of the stack like this:
 
 - **Brains** — ChatGPT / Claude / Gemini
-- **Memory** — Recall / Notebook LM / Claude Mem / Paperless-ngx
-- **Context Feeders** — MCP browser + cloud tools
+- **Memory** — Recall / Notebook LM / Claude Mem / Mem0 / Paperless-ngx
+- **Context Feeders** — Playwright MCP + Context7 MCP
 - **Coding Lab** — OpenCode + OpenClaw + Pencil.dev
 - **Workflow Glue** — OpenWork
 
@@ -98,3 +103,4 @@ Think of the stack like this:
 
 - [The AI Library](https://www.theailibrary.co/) — AI tools directory with 500+ curated tools, learning resources, and community-driven discovery
 - [Pencil.dev](https://www.pencil.dev/) — Design mode for Cursor, VSCode, and Claude Code
+- [Mem0.ai](https://mem0.ai/) — Universal memory layer for AI agents and apps
