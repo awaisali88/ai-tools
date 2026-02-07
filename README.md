@@ -44,8 +44,8 @@ A simple reference sheet of AI assistants, memory tools, and MCP/context extensi
 
 *Tools that feed extra context into AI*
 
-- **Browser MCP**
-  Web browsing and live information context
+- **Playwright MCP (Microsoft)**
+  Browser automation and live web interaction context
 
 - **Context-7 MCP (Cloud)**
   Extended reasoning and cloud context integration
@@ -68,6 +68,9 @@ A simple reference sheet of AI assistants, memory tools, and MCP/context extensi
 - **OpenClaw (formerly Claude Boat)**
   Enhanced Claude coding environment
 
+- **Pencil.dev**
+  AI design-to-code canvas integrated into IDEs (Cursor, VSCode, Claude Code) via MCP
+
 ---
 
 ## Workflow & Automation Helpers
@@ -86,5 +89,12 @@ Think of the stack like this:
 - **Brains** — ChatGPT / Claude / Gemini
 - **Memory** — Recall / Notebook LM / Claude Mem / Paperless-ngx
 - **Context Feeders** — MCP browser + cloud tools
-- **Coding Lab** — OpenCode + OpenClaw
+- **Coding Lab** — OpenCode + OpenClaw + Pencil.dev
 - **Workflow Glue** — OpenWork
+
+---
+
+## References & Resources
+
+- [The AI Library](https://www.theailibrary.co/) — AI tools directory with 500+ curated tools, learning resources, and community-driven discovery
+- [Pencil.dev](https://www.pencil.dev/) — Design mode for Cursor, VSCode, and Claude Code
